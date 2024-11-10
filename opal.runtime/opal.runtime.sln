@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opal.runtime", "opal.runtime\opal.runtime.csproj", "{7D10EF86-8D1F-4008-AD09-C8F9F8D1ECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D10EF86-8D1F-4008-AD09-C8F9F8D1ECFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D10EF86-8D1F-4008-AD09-C8F9F8D1ECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D10EF86-8D1F-4008-AD09-C8F9F8D1ECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D10EF86-8D1F-4008-AD09-C8F9F8D1ECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE548EDF-A22B-4472-ABE8-B0E145244B8B}
+	EndGlobalSection
+EndGlobal
