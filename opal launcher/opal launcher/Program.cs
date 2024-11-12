@@ -35,7 +35,7 @@ echo RobloxPlayerBeta.exe not found.
 exit /b
 
 :found
-:: Launch Roblox and your app
+:: Launch Roblox
 start """" ""!robloxPath!"" %1
 start """" ""C:\Users\%username%\AppData\Local\Roblox\opal.runtime.exe""
 exit
@@ -52,7 +52,7 @@ exit
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error modifying registry: {ex.Message}");
+                Console.WriteLine($"Error modifying registry, dm quitta32: {ex.Message}");
             }
 
             Console.ReadLine();
